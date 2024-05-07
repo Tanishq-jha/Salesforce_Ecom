@@ -68,14 +68,19 @@ Before you begin, ensure you have met the following requirements:
 2. Navigate to the Amazon Clone app.
 3. Explore the various features such as product browsing, cart management, and order processing.
 
+
+## Images
+
+
+
 ## Additional Information
 - For more information about Salesforce Lightning Web Components, visit the [official documentation](https://developer.salesforce.com/docs/component-library/documentation/en/lwc).
 - If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 ## Credits
-- This project is developed by [Your Name].
-- Special thanks to [Contributor Name] for their contributions.
+- This project is developed by Tanishq Jha, Rahul Mukati, Sabiha Hasan.
+- Special thanks to Professor Chanchal Bansal , Professor Vandana Kate [CSIT Department] for their contributions.
 
----
+
 
 Feel free to customize this README with your specific project details. Let me know if you need further assistance!
