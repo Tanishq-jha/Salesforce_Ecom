@@ -70,7 +70,7 @@ Before you begin, ensure you have met the following requirements:
 
 
 ## Images
-
+https://github.com/Tanishq-jha/Salesforce_Ecom/blob/main/Screenshot%20(648).png
 
 
 ## Additional Information
