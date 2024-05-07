@@ -71,6 +71,9 @@ Before you begin, ensure you have met the following requirements:
 
 ## Images
 https://github.com/Tanishq-jha/Salesforce_Ecom/blob/main/Screenshot%20(648).png
+https://github.com/Tanishq-jha/Salesforce_Ecom/blob/main/Screenshot%20(651).png
+https://github.com/Tanishq-jha/Salesforce_Ecom/blob/main/Screenshot%20(652).png
+https://github.com/Tanishq-jha/Salesforce_Ecom/blob/main/Screenshot%20(654).png
 
 
 ## Additional Information
